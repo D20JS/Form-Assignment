@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
+
+body{
+    background-color: #202020	;
+    color: white;
+    font-family: "Monsterrat", sans-serif;
+    margin: auto;
+}
+
+h2, h4{
+    display: flex;
+    justify-content: center;
+    margin-left: 5px;
+}
+
+label{
+    padding-right: 5px;
+}
+
+input{
+    margin-left: 100px;
+    margin-bottom: 40px;
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+form{
+    margin-left: 5px ;
+    border: 2px solid #000;
+}
+
+span{
+    margin-left: 105px;
+    display: flex;
+    padding-bottom: 5px;
+}
+
+button{
+    margin-left: 105px;
+    width: 282px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 12px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+#box{
+    width: 20%;
+}
